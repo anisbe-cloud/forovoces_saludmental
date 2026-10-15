@@ -38,7 +38,7 @@ const reseñasPonentes = {
     nombre: "Dr. Pavel Edén Arenas Castañeda",
     cargo: "Presidente de “Ama Salud Mental” A.C.",
     tema: "Riesgo suicida",
-    foto: "fotospanelistas/dr.paveleden.jpg",
+    foto: "dr.paveleden.jpg",
     parrafos: [
       `Médico Cirujano egresado de la Universidad Nacional Autónoma de México (UNAM), especialista en Psiquiatría
        por el Hospital Fray Bernardino Álvarez y en Psiquiatría Infantil y de la Adolescencia por el Hospital 
@@ -60,7 +60,7 @@ const reseñasPonentes = {
     nombre: "Dra. Diana Iris Tejadilla Orozco",
     cargo: "Psic. especializada en el Hospital Psiquiátrico Infantil Dr. Juan N. Navarro",
     tema: "Abuso sexual",
-    foto: "fotospanelistas/dianatejadilla.jpeg",
+    foto: "dianatejadilla.jpeg",
     parrafos: [
       `Doctora en Alta Dirección en Establecimientos de Salud, cuenta con una maestría en Ciencias, 
       con especialidad en Neurobiología, por el Instituto de Neurobiología de la Universidad Nacional 
@@ -82,7 +82,7 @@ const reseñasPonentes = {
     nombre: "PICD. José Luis Ángeles Gómez",
     cargo: "Dir. Gral. CECOSAMÁ Pachuca",
     tema: "Dinámica vivencial",
-    foto: "fotospanelistas/drjoseluisangeles.png",
+    foto: "drjoseluisangeles.png",
     parrafos: [
       `Médico Cirujano egresado de la Universidad Autónoma del
       Estado de Hidalgo (UAEH), con una sólida trayectoria
@@ -132,7 +132,7 @@ const reseñasPonentes = {
     nombre: "Dr. Cristian Molina Pizarro",
     cargo: "Investigador especializado en temas de salud mental · España",
     tema: "Tecnología y salud mental",
-    foto: "fotospanelistas/drcristianmolina.jpg",
+    foto: "drcristianmolina.jpg",
     parrafos: [
       `Es médico especialista en Psiquiatría, con experiencia clínica 
       en el Hospital Virgen de los Lirios y en el Centro de Salud Mental (CSM) 
@@ -169,7 +169,7 @@ const reseñasPonentes = {
     nombre: "Dra. Andrómeda Ivette Valencia Ortíz",
     cargo: "Investigadora y Jefa del Área Académica de Psicología UAEH.",
     tema: "Bienestar universitario",
-    foto: "fotospanelistas/andromeda-valencia.jpg",
+    foto: "andromeda-valencia.jpg",
     parrafos: [
       `Licenciada en Psicología y doctora en Psicología de la Salud por la 
       Universidad Nacional Autónoma de México (UNAM), con formación especializada 
